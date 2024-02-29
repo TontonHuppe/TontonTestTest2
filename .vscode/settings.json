@@ -3,5 +3,6 @@
     "circleci.persistedProjectSelection": [
         "circleci/9HNbhMwqsTrFjZV9LQgcdu/4UQ7pyuwm7v1vHvM335y8j",
         "circleci/9HNbhMwqsTrFjZV9LQgcdu/EDBEoAgFAH18Uy1BNGQM2T"
-    ]
+    ],
+    "circleci.filters.myPipelinesOnly": false
 }

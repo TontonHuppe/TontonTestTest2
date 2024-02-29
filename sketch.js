@@ -5,3 +5,4 @@ function sum(a, b) {
 module.exports = sum;
 
 //random comment text
+//some other comment
